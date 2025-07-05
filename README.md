@@ -4,6 +4,15 @@
 
 🔗 **Live Preview:** [https://shieldmail.streamlit.app/](https://shieldmail.streamlit.app/)
 
+## 📸 Screenshots
+
+#### 🖼️ Main Interface  
+![Main UI](https://github.com/Turja1347/shield_mail/blob/246f5e6b48069dd452838f4bc43b193e757e583e/Screenshot%202025-07-06%20035905.png?raw=true)
+
+#### 🔍 Spam Detection Output  
+![Spam Output 1](https://github.com/Turja1347/shield_mail/blob/246f5e6b48069dd452838f4bc43b193e757e583e/Screenshot%202025-07-06%20003255.png?raw=true)  
+![Spam Output 2](https://github.com/Turja1347/shield_mail/blob/246f5e6b48069dd452838f4bc43b193e757e583e/Screenshot%202025-07-06%20003329.png?raw=true)
+
 ## 📦 Features
 - 🧠 Spam detection powered by **Multinomial Naive Bayes**
 - 📊 **Interactive Web UI** built with **Streamlit**
@@ -75,14 +84,6 @@ shieldmail/
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
 ```
-## 📸 Screenshots
-
-#### 🖼️ Main Interface  
-![Main UI](https://github.com/Turja1347/shield_mail/blob/246f5e6b48069dd452838f4bc43b193e757e583e/Screenshot%202025-07-06%20035905.png?raw=true)
-
-#### 🔍 Spam Detection Output  
-![Spam Output 1](https://github.com/Turja1347/shield_mail/blob/246f5e6b48069dd452838f4bc43b193e757e583e/Screenshot%202025-07-06%20003255.png?raw=true)  
-![Spam Output 2](https://github.com/Turja1347/shield_mail/blob/246f5e6b48069dd452838f4bc43b193e757e583e/Screenshot%202025-07-06%20003329.png?raw=true)
 
 
 ## 🤝 Acknowledgments
