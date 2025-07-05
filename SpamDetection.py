@@ -36,7 +36,7 @@ def predict(messege):
     return result
 
 #  Streamlit Interface
-st.header('🛡️ ShieldMail — Spam Mail & Text Detection')
+st.header('🛡️ ShieldMail — Spam Mail & SMS Detector')
 
 #  Demo output
 output = predict('congratulation you won a lottery')
