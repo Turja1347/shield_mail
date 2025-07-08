@@ -4,7 +4,7 @@
 
 🔗 **Live Preview:** [https://shieldmail.streamlit.app/](https://shieldmail.streamlit.app/) 
 
-## 📸 Screenshots
+## 📸 Screenshots 
 
 #### 🖼️ Main Interface 
 ![Main UI](https://github.com/Turja1347/shield_mail/blob/246f5e6b48069dd452838f4bc43b193e757e583e/Screenshot%202025-07-06%20035905.png?raw=true)
