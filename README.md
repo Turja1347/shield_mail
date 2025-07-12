@@ -2,7 +2,7 @@
 
 **ShieldMail** is a real-time web application that detects whether an email or SMS message is **Spam** or **Not Spam** using a **Multinomial Naive Bayes Classifier**. Built with **Python**, **scikit-learn**, and **Streamlit**, the application processes raw text input, vectorizes it using `CountVectorizer`, and performs instant classification.
 
-🔗 **Live Preview:** [https://shieldmail.streamlit.app/](https://shieldmail.streamlit.app/) 
+🔗 **Live Preview:** [https://shieldmail.streamlit.app/](https://shieldmail.streamlit.app/)
 
 ## 📸 Screenshots 
 
